@@ -4,6 +4,7 @@ div {
     border: 3px solid black;
 }
 
-#img-div {
+#img-div,
+#nothing-div {
     display: none;
 }
